@@ -10,7 +10,7 @@ Edited On :: 29/9/2021
 
 ✅Add , Delete , Check XRAY Direct & Splice
 
-✅Same Port Use FOr XRAY Direct & XRAY Splice
+✅Same Port Use For XRAY Direct & XRAY Splice
 
 Edited On :: 1/10/2021
 
